@@ -1,4 +1,8 @@
-### Hi there 👋, I'm Opeyemi Ogunsanya
+<h1 align="center"> Hi there 👋, I'm Opeyemi Ogunsanya </h1>
+<h3 align="center">A Full Stack Developer</h3>
+
+FreecodeCamp
+<p align="left"> <img src="https://img.shields.io/freecodecamp/points/opeyemi-ogunsanya" alt="opeyemi-ogunsanya" /> </p>
 
 <!--
 **o-opeyemi/o-opeyemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
